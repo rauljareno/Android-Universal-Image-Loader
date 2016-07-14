@@ -10,11 +10,6 @@ android {
         versionCode 40
         versionName "1.9.5"
     }
-
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
-    }
 }
 
 dependencies {
